@@ -24,6 +24,7 @@
     ]
   },
   "browserslist": {
+    "homepage": "https://mancinidsb.github.io/engenharia_II",
     "production": [
       ">0.2%",
       "not dead",
